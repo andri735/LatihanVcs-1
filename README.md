@@ -12,4 +12,4 @@ Matkul	: Bahasa pemogramman
 ## Langkah-Langkah penggunaan Git
 
 * Download Git terlebih dahulu, dengan link berikut ini : [Click Here](https://git-scm.com/)
-![Gambar Git SCM](Picture/dowload git.PNG)
+![Gambar Git SCM](Picture/download-git.PNG)
