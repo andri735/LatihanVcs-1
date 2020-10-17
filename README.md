@@ -18,5 +18,6 @@ Matkul	: Bahasa pemogramman
 * Setelah installasi selesai lakukan pengecekan pada git, Dengan cara membuka aplikasi Git bush pada Windows. Lalu ketik perintah : *git --version* 
 ![Gambar Git version](Picture/git-ver.PNG)
 * Setelah installasi git--version selesai lalu klik perintah :(https://github.com/)
-![Gambar Git Account github](Picture/github-Bahasapemograman.PNG)
-
+![Gambar Git create Repository](Picture/github-Bahasapemograman.PNG)
+* Setelah Git create Repository selesai, lalu buka File Explorer pada sebuah folder, dan klik kanan, pilih *Git Bash Here*
+![Gambar Git Bash Here](Picture/klik-kanan.PNG)
