@@ -21,3 +21,7 @@ Matkul	: Bahasa pemogramman
 ![Gambar Git create Repository](Picture/github-Bahasapemograman.PNG)
 * Setelah Git create Repository selesai, lalu buka File Explorer pada sebuah folder, dan klik kanan, pilih *Git Bash Here*
 ![Gambar Git Bash Here](Picture/klikkanan.png)
+* Setelah klik Git Bash Here selesai, lakukan *clonning* repository dari GitHub ke Lokal dengan cara mengetik perintah berikut pada GitBash
+> git clone [url]
+contoh : *git clone https://github.com/antini-alt/LatihanVcs.git*
+![Gambar git clone Repository](Picture/git-clone.PNG)
