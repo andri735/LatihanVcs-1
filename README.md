@@ -18,5 +18,5 @@ Matkul	: Bahasa pemogramman
 * Setelah installasi selesai lakukan pengecekan pada git, Dengan cara membuka aplikasi Git bush pada Windows. Lalu ketik perintah : *git --version* 
 ![Gambar Git version](Picture/git-ver.PNG)
 * Setelah installasi git--version selesai lalu klik perintah :(https://github.com/)
-![Gambar Git Account github](Picture/github-Bahasapemogramman.PNG)
+![Gambar Git Account github](Picture/github-Bahasapemograman.PNG)
 
