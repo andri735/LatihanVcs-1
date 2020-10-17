@@ -24,4 +24,4 @@ Matkul	: Bahasa pemogramman
 * Setelah klik Git Bash Here selesai, lakukan *clonning* repository dari GitHub ke Lokal dengan cara mengetik perintah berikut pada GitBash
 > git clone [url]
 contoh : *git clone https://github.com/antini-alt/LatihanVcs.git*
-![Gambar git clone Repository](Picture/git-clone.PNG)
+![Gambar git clone Repository](Picture/git-clone-1.PNG)
