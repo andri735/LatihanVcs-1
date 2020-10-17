@@ -20,4 +20,4 @@ Matkul	: Bahasa pemogramman
 * Setelah installasi git--version selesai lalu klik perintah :(https://github.com/)
 ![Gambar Git create Repository](Picture/github-Bahasapemograman.PNG)
 * Setelah Git create Repository selesai, lalu buka File Explorer pada sebuah folder, dan klik kanan, pilih *Git Bash Here*
-![Gambar Git Bash Here](Picture/klikkanan.PNG)
+![Gambar Git Bash Here](Picture/klikkanan.png)
