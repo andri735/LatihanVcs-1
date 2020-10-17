@@ -27,3 +27,7 @@ contoh : *git clone https://github.com/antini-alt/LatihanVcs.git*
 ![Gambar git clone Repository](Picture/git-clone-1.PNG)
 * Setelah proses cloning selesai, silahkan edit file **README.md** sesuai dengan keinginan, seperti contoh dibawah ini :
 ![Edit File Readme.md](Picture/edit-readme.PNG)
+* Kemudian, lakukan proses upload ke server Github dengan perintah berikut :
+> git add .
+
+![Git Add](Picture/git-add.PNG)
