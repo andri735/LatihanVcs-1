@@ -25,3 +25,5 @@ Matkul	: Bahasa pemogramman
 > git clone [url]
 contoh : *git clone https://github.com/antini-alt/LatihanVcs.git*
 ![Gambar git clone Repository](Picture/git-clone-1.PNG)
+* Setelah proses cloning selesai, silahkan edit file **README.md** sesuai dengan keinginan, seperti contoh dibawah ini :
+![Edit File Readme.md](Picture/update-Readme.md.PNG)
