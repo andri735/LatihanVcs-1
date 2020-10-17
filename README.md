@@ -35,3 +35,7 @@ contoh : *git clone https://github.com/antini-alt/LatihanVcs.git*
 > git commit -m "update README.md"
 
 ![Commit file](Picture/commit.PNG)
+* Langkah terakhir untuk upload ke GitHub adalah dengan push git, dengan :
+> git push
+
+![Git Push](Picture/git-push.PNG)
