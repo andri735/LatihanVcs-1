@@ -31,3 +31,7 @@ contoh : *git clone https://github.com/antini-alt/LatihanVcs.git*
 > git add .
 
 ![Git Add](Picture/git-add.PNG)
+* Setelah proses add selesai, lakukan commit pada repository tersebut. dengan ketik perintah berikut :
+> git commit -m "update README.md"
+
+![Commit file](Picture/commit.PNG)
