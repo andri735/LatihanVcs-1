@@ -15,7 +15,7 @@ Matkul	: Bahasa pemogramman
 ![Gambar Git SCM](Picture/download-git.PNG)
 * Setelah file terdownload, silahkan instalasi dengan referensi berikut ini : [Git installasi Guide](https://www.petanikode.com/git-install/)
 ![Gambar Git SCM](Picture/intall-git.PNG)
-* Setelah installasi selesai lakukan pengecekan pada git, Dengan cara membuka aplikasi Git bush pada Windows. Lalu ketik perintah : *git --version* 
+* Setelah installasi selesai lakukan pengecekan pada git, Dengan cara membuka aplikasi Git bush pada Windows. Lalu ketik perintah : *git --version* <br>
 ![Gambar Git version](Picture/git-ver.PNG)
 * Setelah installasi git--version selesai lalu klik perintah :(https://github.com/)
 ![Gambar Git create Repository](Picture/github-Bahasapemograman.PNG)
